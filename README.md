@@ -1,5 +1,11 @@
 # TTA-Project
-This repository servers to contain our progress documentation towards completing our project for TTA along with additional files. 
+This repository servers to contain our progress documentation towards completing our project for TTA along with additional files.
+
+This documentation includes the weekly updated daily standup detailing the current goals, blocks, and deliverables for each sprint/week.
+
+Within the daily standup there are links to additional documents containing in-depth research and ideas.
+
+These documents are also present within the repository to faciliate navigation. These files are also updated weekly if any changes were made.
 
 <h1 align="center">Hi 👋, We are Alejandro and Julio.</h1>
 <h3 align="center">Passionate contributors from TTA.</h3>
